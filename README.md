@@ -85,10 +85,10 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
+* What is the scheme/protocol? https
+* What is the host? nsp.org
+* What is the port number? 443
+* What is the path? /commitments
 * What are the query parameters?
 * What is the fragment?
 
