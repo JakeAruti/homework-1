@@ -37,7 +37,7 @@ Then click the pencil icon to edit it:
 
 ![Edit button](./images/edit.png)
 
-Next, edit this line to add your name: **Your Name**
+Next, edit this line to add your name: **Jake**
 
 Click the "Preview changes" tab to see your changes.
 
@@ -52,7 +52,7 @@ You should now see your name above (instead of "Your Name"). You can also see yo
 
 [LinkedIn](linkedin.com) is a professional networking site used by almost all companies and recruiters. By establishing your professional profile now, to can begin to connect with other classmates and build your professional network.
 
-Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
+Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.": https://www.linkedin.com/in/jakearuti/
 
 [My LinkedIn Profile](https://www.linkedin.com/in/.../)
 
@@ -85,48 +85,48 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? www.nsnsp.org
+* What is the port number? 443
+* What is the path? /commitments
+* What are the query parameters? ?date=2017-12-09
+* What is the fragment? none
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? 80
+* What is the path? /admin
+* What are the query parameters? blank
+* What is the fragment? none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? www.lehman.edu
+* What is the port number? 80
+* What is the path? /academics/mathematics-computer-science/index.php
+* What are the query parameters? none
+* What is the fragment? none
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? en.wikipedia.org
+* What is the port number? 443
+* What is the path? /wiki/Greek_alphabet
+* What are the query parameters? none
+* What is the fragment? #Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? secure
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? it encrypts requests and uploads for security agaisnt interception
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? yes
 
 
 ## Webpages
